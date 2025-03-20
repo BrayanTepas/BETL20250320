@@ -21,7 +21,7 @@ public partial class Product
     public decimal Price { get; set; }
 
 
-    public int? WarehouseID { get; set; }
+    public int? WarehouseId { get; set; }
 
     [Display(Name = "marca")]
 
